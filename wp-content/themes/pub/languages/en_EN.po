@@ -1,0 +1,1831 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: adventure-tours 1.0.0\n"
+"POT-Creation-Date: 2015-09-27 14:36+0300\n"
+"PO-Revision-Date: 2015-10-07 22:00+0300\n"
+"Last-Translator: Oleg Kutcyna <oleg.kutcyna@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __:1,2c;_e:1,2c;_n:1,2,4c;_x:1,3c;_ex:1,3c;"
+"_nx:1,2,4c:;esc_attr__:1,2c;esc_attr_e:1,2c;esc_attr_x:1,3c;esc_html__:1,2c;"
+"esc_html_e:1,2c;esc_html_x:1,3c;gettext_noop\n"
+"X-Poedit-Basepath: adventure-tours\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: adventure-tours\n"
+
+#: adventure-tours/config.php:36
+msgid "Home"
+msgstr ""
+
+#: adventure-tours/config.php:37
+#, php-format
+msgid "Category %s"
+msgstr ""
+
+#: adventure-tours/config.php:38
+#, php-format
+msgid "Result search \"%s\""
+msgstr ""
+
+#: adventure-tours/config.php:39
+#, php-format
+msgid "Tag \"%s\""
+msgstr ""
+
+#: adventure-tours/config.php:40
+#, php-format
+msgid "Author %s"
+msgstr ""
+
+#: adventure-tours/config.php:41
+msgid "Error 404"
+msgstr ""
+
+#: adventure-tours/config.php:42
+#, php-format
+msgid "Format %s"
+msgstr ""
+
+#: adventure-tours/config.php:162
+#: adventure-tours/includes/metabox/header-section-meta.php:13
+#: adventure-tours/includes/classes/AtWidgetTours.php:136
+msgid "Display Mode"
+msgstr ""
+
+#: adventure-tours/config.php:165
+#: adventure-tours/includes/theme-options-config.php:172
+#: adventure-tours/includes/metabox/header-section-meta.php:18
+#: adventure-tours/includes/metabox/header-section-meta.php:103
+msgid "Default"
+msgstr ""
+
+#: adventure-tours/config.php:166
+#: adventure-tours/woocommerce/includes/WC_Tour_Integration_Helper_Admin.php:79
+#: adventure-tours/woocommerce/includes/WC_Tour_Integration_Helper.php:148
+#: adventure-tours/includes/theme-options-functions.php:174
+#: adventure-tours/includes/theme-options-config.php:241
+#: adventure-tours/includes/classes/AtWidgetTours.php:15
+#: adventure-tours/includes/shortcodes/menu.php:10
+msgid "Tours"
+msgstr ""
+
+#: adventure-tours/config.php:167
+#: adventure-tours/includes/theme-options-functions.php:175
+msgid "Categories"
+msgstr ""
+
+#: adventure-tours/config.php:168
+#: adventure-tours/includes/theme-options-functions.php:176
+msgid "Both"
+msgstr ""
+
+#: adventure-tours/config.php:178
+#: adventure-tours/includes/theme-options-config.php:56
+#: adventure-tours/includes/theme-options-config.php:113
+#: adventure-tours/includes/metabox/header-section-meta.php:22
+#: adventure-tours/includes/metabox/header-section-meta.php:44
+msgid "Image"
+msgstr ""
+
+#: adventure-tours/config.php:181
+msgid "Upload/Add Image"
+msgstr ""
+
+#: adventure-tours/config.php:190
+#: adventure-tours/woocommerce/includes/WC_Admin_Attributes_Extended.php:120
+msgid "Icon"
+msgstr ""
+
+#: adventure-tours/config.php:193
+#: adventure-tours/woocommerce/includes/WC_Admin_Attributes_Extended.php:72
+#: adventure-tours/woocommerce/includes/WC_Admin_Attributes_Extended.php:77
+#: adventure-tours/includes/theme-options-functions.php:153
+#: adventure-tours/includes/theme-options-config.php:168
+#: adventure-tours/includes/metabox/header-section-meta.php:99
+msgid "None"
+msgstr ""
+
+#: adventure-tours/comments.php:24
+#: adventure-tours/woocommerce/single-product-reviews.php:73
+#: adventure-tours/templates/shortcodes/faq_question_form.php:20
+#: adventure-tours/templates/parts/tour-booking-form.php:60
+msgid "Name"
+msgstr ""
+
+#: adventure-tours/comments.php:28
+#: adventure-tours/woocommerce/single-product-reviews.php:76
+#: adventure-tours/templates/shortcodes/faq_question_form.php:23
+#: adventure-tours/includes/classes/AtWidgetContactUs.php:85
+msgid "Email"
+msgstr ""
+
+#: adventure-tours/comments.php:32
+msgid "Website"
+msgstr ""
+
+#: adventure-tours/comments.php:40
+msgid "Comment"
+msgstr ""
+
+#: adventure-tours/comments.php:48
+msgid "Post Comment"
+msgstr ""
+
+#: adventure-tours/comments.php:69
+msgid "Reply"
+msgstr ""
+
+#: adventure-tours/comments.php:88
+msgid "Comments"
+msgstr ""
+
+#: adventure-tours/content-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: adventure-tours/content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: adventure-tours/content-none.php:20
+#: adventure-tours/templates/header/search.php:18
+msgid "Type in your request..."
+msgstr ""
+
+#: adventure-tours/content-none.php:23 adventure-tours/content-none.php:37
+msgid "Search"
+msgstr ""
+
+#: adventure-tours/content-none.php:32
+msgid "Oops! The page you are looking for is not found!"
+msgstr ""
+
+#: adventure-tours/content-none.php:35
+msgid "Type in your phrase"
+msgstr ""
+
+#: adventure-tours/functions.php:135 adventure-tours/functions.php:136
+msgid "Theme Options"
+msgstr ""
+
+#: adventure-tours/functions.php:195
+msgid "Sidebar"
+msgstr ""
+
+#: adventure-tours/functions.php:196
+msgid "Sidebar located on the right side of blog page."
+msgstr ""
+
+#: adventure-tours/functions.php:205
+msgid "Shop Sidebar"
+msgstr ""
+
+#: adventure-tours/functions.php:206
+msgid "Sidebar located on the right side on pages related to shop."
+msgstr ""
+
+#: adventure-tours/functions.php:215
+msgid "Tour Sidebar"
+msgstr ""
+
+#: adventure-tours/functions.php:216
+msgid "Sidebar located on the right side on pages related to tour."
+msgstr ""
+
+#: adventure-tours/functions.php:225
+msgid "FAQs"
+msgstr ""
+
+#: adventure-tours/functions.php:226
+msgid "Sidebar located on the FAQ page."
+msgstr ""
+
+#: adventure-tours/functions.php:235
+msgid "Footer 1"
+msgstr ""
+
+#: adventure-tours/functions.php:236
+msgid "Located in 1st column on 4-columns footer layout."
+msgstr ""
+
+#: adventure-tours/functions.php:247
+msgid "Footer 2"
+msgstr ""
+
+#: adventure-tours/functions.php:248
+msgid "Located in 2nd column on 4-columns footer layout."
+msgstr ""
+
+#: adventure-tours/functions.php:259
+msgid "Footer 3"
+msgstr ""
+
+#: adventure-tours/functions.php:260
+msgid "Located in 3rd column on 4-columns footer layout."
+msgstr ""
+
+#: adventure-tours/functions.php:271
+msgid "Footer 4"
+msgstr ""
+
+#: adventure-tours/functions.php:272
+msgid "Located in 4th column on 4-columns footer layout."
+msgstr ""
+
+#: adventure-tours/functions.php:375
+msgid "Header Menu"
+msgstr ""
+
+#: adventure-tours/functions.php:376
+msgid "Footer Menu"
+msgstr ""
+
+#: adventure-tours/functions.php:515
+msgid "Tour Data"
+msgstr ""
+
+#: adventure-tours/functions.php:524
+msgid "Header Section"
+msgstr ""
+
+#: adventure-tours/woocommerce/content-widget-product.php:24
+msgid "View"
+msgstr ""
+
+#: adventure-tours/woocommerce/content-product.php:47
+#: adventure-tours/includes/classes/AtWidgetTours.php:51
+msgid "On Sale"
+msgstr ""
+
+#: adventure-tours/woocommerce/content-product.php:68
+msgid "view"
+msgstr ""
+
+#: adventure-tours/woocommerce/single-product-reviews.php:22
+#: adventure-tours/includes/shortcodes/menu.php:180
+msgid "Tour Reviews"
+msgstr ""
+
+#: adventure-tours/woocommerce/single-product-reviews.php:38
+msgid "based on"
+msgstr ""
+
+#: adventure-tours/woocommerce/single-product-reviews.php:39
+#: adventure-tours/templates/tour/content.php:70
+#: adventure-tours/templates/header/banner.php:60
+#, php-format
+msgid "1 review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: adventure-tours/woocommerce/single-product-reviews.php:49
+msgid "There are no reviews yet."
+msgstr ""
+
+#: adventure-tours/woocommerce/single-product-reviews.php:62
+msgid "Leave a Review"
+msgstr ""
+
+#: adventure-tours/woocommerce/single-product-reviews.php:79
+#: adventure-tours/includes/shortcodes/menu.php:214
+msgid "Submit"
+msgstr ""
+
+#: adventure-tours/woocommerce/single-product-reviews.php:85
+#: adventure-tours/includes/classes/AtWidgetTours.php:45
+msgid "Rating"
+msgstr ""
+
+#: adventure-tours/woocommerce/single-product-reviews.php:87
+msgid "Rate&hellip;"
+msgstr ""
+
+#: adventure-tours/woocommerce/single-product-reviews.php:88
+msgid "Perfect"
+msgstr ""
+
+#: adventure-tours/woocommerce/single-product-reviews.php:89
+msgid "Good"
+msgstr ""
+
+#: adventure-tours/woocommerce/single-product-reviews.php:90
+msgid "Average"
+msgstr ""
+
+#: adventure-tours/woocommerce/single-product-reviews.php:91
+msgid "Not that bad"
+msgstr ""
+
+#: adventure-tours/woocommerce/single-product-reviews.php:92
+msgid "Very Poor"
+msgstr ""
+
+#: adventure-tours/woocommerce/single-product-reviews.php:98
+msgid "Your Review"
+msgstr ""
+
+#: adventure-tours/woocommerce/single-product-reviews.php:105
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: adventure-tours/woocommerce/content-product_cat.php:56
+msgid "product"
+msgid_plural "products"
+msgstr[0] ""
+msgstr[1] ""
+
+#: adventure-tours/woocommerce/content-product_cat.php:59
+msgid "See products"
+msgstr ""
+
+#: adventure-tours/woocommerce/single-product/meta.php:32
+msgid "SKU:"
+msgstr ""
+
+#: adventure-tours/woocommerce/single-product/meta.php:33
+msgid "N/A"
+msgstr ""
+
+#: adventure-tours/woocommerce/single-product/meta.php:40
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: adventure-tours/woocommerce/single-product/meta.php:48
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: adventure-tours/woocommerce/widgets/templates/recent_reviews.php:46
+msgid "by "
+msgstr ""
+
+#: adventure-tours/woocommerce/cart/mini-cart.php:49
+msgid "Remove"
+msgstr ""
+
+#: adventure-tours/woocommerce/cart/mini-cart.php:55
+msgid "No products in the cart."
+msgstr ""
+
+#: adventure-tours/woocommerce/cart/mini-cart.php:61
+msgid "Subtotal"
+msgstr ""
+
+#: adventure-tours/woocommerce/cart/mini-cart.php:67
+msgid "View Cart"
+msgstr ""
+
+#: adventure-tours/woocommerce/cart/mini-cart.php:68
+msgid "Checkout"
+msgstr ""
+
+#: adventure-tours/woocommerce/includes/WC_Tour_Integration_Helper_Admin.php:38
+msgid "Tour"
+msgstr ""
+
+#: adventure-tours/woocommerce/includes/WC_Tour_Integration_Helper_Admin.php:147
+msgid "Tour Booking"
+msgstr ""
+
+#: adventure-tours/woocommerce/includes/WC_Tour_Integration_Helper_Admin.php:208
+msgid "Parameters error. Please contact support."
+msgstr ""
+
+#: adventure-tours/woocommerce/includes/WC_Tour_Integration_Helper.php:323
+#, php-format
+msgid "Only %s tickets available for %s on %s."
+msgstr ""
+
+#: adventure-tours/templates/tour/related-tours.php:17
+msgid "You May Also Like"
+msgstr ""
+
+#: adventure-tours/templates/tour/content-tour_category.php:42
+msgid "tour"
+msgid_plural "tours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: adventure-tours/templates/tour/content-tour_category.php:45
+msgid "See tours"
+msgstr ""
+
+#: adventure-tours/templates/tour/content.php:81
+msgid "per person"
+msgstr ""
+
+#: adventure-tours/templates/tour/content.php:82
+msgid "view tour"
+msgstr ""
+
+#: adventure-tours/templates/tour/price-decoration.php:23
+msgid "One tour per person"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-row.php:18
+msgid "Monday"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-row.php:19
+msgid "Tuesday"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-row.php:20
+msgid "Wednesday"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-row.php:21
+msgid "Thursday"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-row.php:22
+msgid "Friday"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-row.php:23
+msgid "Saturday"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-row.php:24
+msgid "Sunday"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-row.php:28
+#: adventure-tours/includes/classes/AtWidgetLatestPosts.php:81
+msgid "No"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-row.php:29
+#: adventure-tours/includes/classes/AtWidgetLatestPosts.php:80
+msgid "Yes"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-row.php:38
+msgid "Start date"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-row.php:42
+msgid "End date"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-row.php:68
+msgid "Number of tickets per tour"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-row.php:73
+msgid "Is active?"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-row.php:89
+msgid "remove"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-tab.php:24
+msgid "Dates"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-tab.php:25
+#: adventure-tours/includes/template-functions.php:1056
+msgid "Details"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-tab.php:25
+msgid "Number of tickets avaialable for a tour each day."
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-tab.php:31
+msgid "Hide Calendar"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-tab.php:31
+msgid "Preview Calendar"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-tab.php:37
+msgid "Add Period"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-tab.php:38
+msgid "Save"
+msgstr ""
+
+#: adventure-tours/templates/admin/tour-booking-tab.php:43
+msgid "Please add ranges with information about tour dates."
+msgstr ""
+
+#: adventure-tours/templates/shortcodes/mailchimp_form.php:22
+msgid ""
+"Please enter the MailChimp List ID settings in the MailChimp Form "
+"[mailchimp_form] shortcode."
+msgstr ""
+
+#: adventure-tours/templates/shortcodes/tour_search_form.php:31
+#: adventure-tours/includes/theme-options-config.php:348
+msgid "Search Tour"
+msgstr ""
+
+#: adventure-tours/templates/shortcodes/tour_search_form.php:58
+msgid "Category"
+msgstr ""
+
+#: adventure-tours/templates/shortcodes/tour_search_form.php:114
+msgid "Find Tours"
+msgstr ""
+
+#: adventure-tours/templates/shortcodes/faq_question_form.php:26
+#: adventure-tours/templates/shortcodes/faq_question_form_email.php:18
+msgid "Question"
+msgstr ""
+
+#: adventure-tours/templates/shortcodes/faq_question_form.php:30
+msgid "Send Question"
+msgstr ""
+
+#: adventure-tours/templates/shortcodes/faq_question_form_email.php:16
+msgid "New question for FAQs"
+msgstr ""
+
+#: adventure-tours/templates/shortcodes/faq_question_form_email.php:17
+msgid "From"
+msgstr ""
+
+#: adventure-tours/templates/parts/faq-question-form.php:17
+msgid "Not found your question?"
+msgstr ""
+
+#: adventure-tours/templates/parts/faq-question-form.php:18
+msgid "Fill in the form below"
+msgstr ""
+
+#: adventure-tours/templates/parts/tour-booking-form.php:61
+msgid "Email address"
+msgstr ""
+
+#: adventure-tours/templates/parts/tour-booking-form.php:62
+msgid "Phone number"
+msgstr ""
+
+#: adventure-tours/templates/parts/tour-booking-form.php:63
+msgid "Date"
+msgstr ""
+
+#: adventure-tours/templates/parts/tour-booking-form.php:72
+msgid "Book the tour"
+msgstr ""
+
+#: adventure-tours/templates/parts/tour-booking-form.php:96
+msgid "Book now"
+msgstr ""
+
+#: adventure-tours/templates/parts/article-info.php:36
+msgid "No Comments"
+msgstr ""
+
+#: adventure-tours/templates/parts/article-info.php:36
+msgid "1 Comment"
+msgstr ""
+
+#: adventure-tours/templates/parts/article-info.php:36
+msgid "% Comments"
+msgstr ""
+
+#: adventure-tours/templates/parts/post-navigation.php:12
+msgid "Previous post"
+msgstr ""
+
+#: adventure-tours/templates/parts/post-navigation.php:18
+msgid "Next post"
+msgstr ""
+
+#: adventure-tours/templates/parts/post-tags.php:15
+msgid "Tags"
+msgstr ""
+
+#: adventure-tours/templates/parts/about-author.php:17
+msgid "About Author"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:164
+#: adventure-tours/includes/admin/plugins.php:85
+msgid "Install Required Plugins"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:165
+#: adventure-tours/includes/admin/plugins.php:86
+msgid "Install Plugins"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#: adventure-tours/includes/admin/plugins.php:87
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:178
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:488
+#: adventure-tours/includes/admin/plugins.php:99
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:179
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1843
+#: adventure-tours/includes/admin/plugins.php:100
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:515
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:2055
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:543
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:702
+msgid "Dismiss this notice"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1089
+msgid "External Link"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1094
+msgid "Private Repository"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1097
+msgid "Pre-Packaged"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1101
+msgid "WordPress Repository"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1104
+msgid "Required"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1104
+msgid "Recommended"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1107
+msgid "Not Installed"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1109
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1279
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1295
+msgid "Plugin"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1296
+msgid "Source"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1297
+msgid "Type"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1298
+msgid "Status"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1316
+msgid "Install"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1317
+msgid "Activate"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1541
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1826
+msgid "Install package not available."
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1827
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1828
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1830
+msgid "Plugin install failed."
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1831
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1842
+msgid "Plugin activation failed."
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1952
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1953
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1953
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+msgid "Show Details"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1953
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+msgid "Hide Details"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1954
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1959
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1960
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1963
+msgid "All installations have been completed."
+msgstr ""
+
+#: adventure-tours/vendor/tgm-plugin-activation/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: adventure-tours/vendor/themedelight/views/theme-updater-update-notification.php:14
+#: adventure-tours/vendor/themedelight/components/TdThemeUpdater.php:135
+msgid "Theme Updates"
+msgstr ""
+
+#: adventure-tours/vendor/themedelight/views/theme-updater-update-notification.php:16
+#, php-format
+msgid "There is a new version of the %s Theme available."
+msgstr ""
+
+#: adventure-tours/vendor/themedelight/views/theme-updater-update-notification.php:16
+#, php-format
+msgid "You currently have version %s installed. Please update to version %s."
+msgstr ""
+
+#: adventure-tours/vendor/themedelight/views/theme-updater-update-notification.php:20
+msgid "Update Instructions"
+msgstr ""
+
+#: adventure-tours/vendor/themedelight/views/theme-updater-update-notification.php:21
+#, php-format
+msgid ""
+"To update %s, simply download the latest files from %s and install the "
+"upgraded version."
+msgstr ""
+
+#: adventure-tours/vendor/themedelight/views/theme-updater-update-notification.php:22
+msgid "Quick guide"
+msgstr ""
+
+#: adventure-tours/vendor/themedelight/views/theme-updater-update-notification.php:24
+msgid "Download the most recent Theme Files"
+msgstr ""
+
+#: adventure-tours/vendor/themedelight/views/theme-updater-update-notification.php:25
+msgid "Install the Updated Theme"
+msgstr ""
+
+#: adventure-tours/vendor/themedelight/views/theme-updater-update-notification.php:31
+msgid "Changelog"
+msgstr ""
+
+#: adventure-tours/vendor/themedelight/components/TdThemeUpdater.php:136
+msgid "Update"
+msgstr ""
+
+#: adventure-tours/vendor/themedelight/components/TdThemeUpdater.php:156
+msgid "New Version"
+msgstr ""
+
+#: adventure-tours/includes/template-functions.php:101
+msgid "Placeholder"
+msgstr ""
+
+#: adventure-tours/includes/template-functions.php:175
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: adventure-tours/includes/template-functions.php:458
+msgid "Previous"
+msgstr ""
+
+#: adventure-tours/includes/template-functions.php:466
+msgid "Next"
+msgstr ""
+
+#: adventure-tours/includes/template-functions.php:512
+#: adventure-tours/includes/template-functions.php:519
+msgid "next"
+msgstr ""
+
+#: adventure-tours/includes/template-functions.php:513
+#: adventure-tours/includes/template-functions.php:525
+msgid "previous"
+msgstr ""
+
+#: adventure-tours/includes/template-functions.php:920
+msgid "all"
+msgstr ""
+
+#: adventure-tours/includes/template-functions.php:1081
+msgid "Photos"
+msgstr ""
+
+#: adventure-tours/includes/template-functions.php:1171
+msgid "Additional information"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-functions.php:57
+#: adventure-tours/includes/theme-options-config.php:363
+msgid "Tour Categories"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:11
+msgid "Theme Settings"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:15
+#: adventure-tours/includes/theme-options-config.php:247
+msgid "General"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:21
+msgid "Update Notifier"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:22
+msgid "Switch on if you would like to receive update noticies."
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:28
+msgid "Custom CSS"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:33
+msgid "Placeholder Image"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:34
+msgid "Recommended size is 1140x760px."
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:41
+msgid "Header"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:47
+msgid "Logo"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:51
+msgid "Logo Type"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:60
+msgid "Text"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:68
+msgid "Logo Image"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:69
+msgid "Recommended size is 180x30px."
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:79
+msgid "Logo Image for Retina"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:80
+msgid "Recommended size is 360x60px."
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:92
+msgid "Default Header Image"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:97
+msgid "Use Default Image"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:98
+msgid "For archive and search pages."
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:104
+#: adventure-tours/includes/theme-options-config.php:352
+#: adventure-tours/includes/metabox/header-section-meta.php:35
+msgid "Subtitle"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:122
+msgid "Image Repeat"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:127
+#: adventure-tours/includes/metabox/header-section-meta.php:68
+msgid "Repeat"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:131
+#: adventure-tours/includes/metabox/header-section-meta.php:72
+msgid "No repeat"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:135
+#: adventure-tours/includes/metabox/header-section-meta.php:76
+msgid "Repeat horizontally"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:139
+#: adventure-tours/includes/metabox/header-section-meta.php:80
+msgid "Repeat vertically"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:150
+#: adventure-tours/includes/metabox/header-section-meta.php:54
+msgid "Use Parallax"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:161
+#: adventure-tours/includes/metabox/header-section-meta.php:92
+msgid "Mask"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:182
+#: adventure-tours/includes/classes/AtWidgetContactUs.php:84
+msgid "Phone"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:187
+msgid "Working Hours"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:193
+msgid "Show Search"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:199
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:207
+msgid "Footer"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:213
+msgid "Layout"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:218
+msgid "2 Columns"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:222
+msgid "3 Columns"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:226
+msgid "4 Columns"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:233
+msgid "Text Note"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:251
+msgid "Tours Page"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:264
+msgid "Tours Page Display"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:278
+msgid "Earliest Booking Time"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:279
+msgid "Number of days before the tour the booking starts."
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:290
+msgid "Latest Booking Time"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:291
+msgid "Number of days before the tour the booking stops."
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:304
+msgid "Tour Details Page"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:308
+#: adventure-tours/includes/theme-options-config.php:436
+#: adventure-tours/includes/theme-options-config.php:456
+#: adventure-tours/includes/theme-options-config.php:582
+msgid "Social Sharing"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:309
+msgid "Turn on to show social media buttons on the tour details page."
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:315
+msgid "Show Related Tours"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:316
+msgid "Turn on to show related tours on the tour details page."
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:322
+msgid "Top Section Attributes"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:337
+msgid "Tour Badges"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:342
+msgid "Search Form"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:346
+#: adventure-tours/includes/metabox/tour-tabs-meta.php:32
+#: adventure-tours/includes/classes/AtWidgetTours.php:86
+#: adventure-tours/includes/classes/AtWidgetContactUs.php:82
+#: adventure-tours/includes/classes/AtWidgetLatestPosts.php:85
+#: adventure-tours/includes/shortcodes/menu.php:29
+msgid "Title"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:354
+msgid "Find your dream tour today!"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:358
+msgid "Additional Fields"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:375
+msgid "Tour Parent Category"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:376
+msgid ""
+"Select a parent if you would like to refine the list of searchable "
+"categories."
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:381
+#: adventure-tours/includes/classes/AtWidgetTours.php:49
+msgid "All"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:402
+msgid "Blog"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:409
+msgid "Blog Page"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:413
+msgid "Read More Link Text"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:419
+msgid "Excerpt"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:420
+msgid "Turn on to automatically shorten the posts on the blog page"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:425
+msgid "Excerpt Length"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:437
+#: adventure-tours/includes/theme-options-config.php:457
+msgid "Turn on to show social media buttons under the post."
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:446
+msgid "Single Post Page"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:450
+msgid "Show Post Tags"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:463
+msgid "Show \"About Author\" Section"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:473
+msgid "FAQs Page"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:479
+msgid "Show Question Form"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:485
+msgid "New Question Notification"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:495
+msgid "Email Receiver"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:499
+msgid "Admin email"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:503
+#: adventure-tours/includes/theme-options-config.php:512
+msgid "Custom email"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:526
+msgid "Social Media"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:533
+msgid "Facebook URL"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:539
+msgid "Twitter URL"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:545
+msgid "Google+ URL"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:551
+msgid "Pinterest URL"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:557
+msgid "Linkedin URL"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:563
+msgid "Instagram URL"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:569
+msgid "Dribbble URL"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:575
+msgid "Tumblr URL"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:588
+msgid "Google+"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:594
+msgid "Facebook"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:600
+msgid "Twitter"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:606
+msgid "Stumbleupon"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:612
+msgid "Linkedin"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:618
+msgid "Pinterest"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:652
+#, php-format
+msgid "Is Active Badge #%d"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:659
+#, php-format
+msgid "Title #%d"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:670
+#, php-format
+msgid "Color #%d"
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:688
+msgid "Please install and activate the WooCommerce plugin."
+msgstr ""
+
+#: adventure-tours/includes/theme-options-config.php:693
+msgid "Show Shopping Cart"
+msgstr ""
+
+#: adventure-tours/includes/metabox/tour-tabs-meta.php:12
+#: adventure-tours/includes/classes/AtWidgetTours.php:44
+msgid "Badge"
+msgstr ""
+
+#: adventure-tours/includes/metabox/tour-tabs-meta.php:28
+msgid "Additional Tab"
+msgstr ""
+
+#: adventure-tours/includes/metabox/tour-tabs-meta.php:37
+msgid "Content"
+msgstr ""
+
+#: adventure-tours/includes/metabox/header-section-meta.php:26
+msgid "Slider"
+msgstr ""
+
+#: adventure-tours/includes/metabox/header-section-meta.php:63
+msgid "Image repeat"
+msgstr ""
+
+#: adventure-tours/includes/metabox/header-section-meta.php:135
+msgid "Please install and activate the Slider Revolution plugin."
+msgstr ""
+
+#: adventure-tours/includes/metabox/header-section-meta.php:137
+msgid "Please go to Slider Revolution plugin and create a slider."
+msgstr ""
+
+#: adventure-tours/includes/metabox/header-section-meta.php:141
+msgid "Choose Slider"
+msgstr ""
+
+#: adventure-tours/includes/admin/plugins.php:88
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: adventure-tours/includes/admin/plugins.php:101
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:17
+msgid "Tours Widget"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:27
+msgid "Added Date"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:28
+msgid "Most popular"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:29
+msgid "Sales"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:30
+#: adventure-tours/includes/classes/AtWidgetTours.php:38
+msgid "Price"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:31
+msgid "Random"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:34
+msgid "DESC"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:35
+msgid "ASC"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:39
+msgid "Price & Rating"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:40
+msgid "Price & Badge"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:41
+msgid "Price & Rating & Badge"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:42
+msgid "Highlighted Price"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:43
+msgid "Highlighted Price & Rating"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:46
+msgid "Rating & Badge"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:50
+msgid "Featured"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:101
+msgid "Tour category"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:102
+msgid "Any"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:116
+msgid "Show"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:120
+msgid "Order"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:126
+msgid "Tour ids"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTours.php:132
+#: adventure-tours/includes/classes/AtWidgetLatestPosts.php:89
+msgid "Number of posts to show"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtTourBookingService.php:69
+msgid "Parametes errors. Please contact support"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtTourBookingService.php:375
+msgid "Please select at least one day."
+msgstr ""
+
+#: adventure-tours/includes/classes/AtTourBookingService.php:377
+msgid "The field is required."
+msgstr ""
+
+#: adventure-tours/includes/classes/AtTourBookingService.php:383
+msgid "Minimum allowed value is 1."
+msgstr ""
+
+#: adventure-tours/includes/classes/AtTourBookingService.php:389
+#: adventure-tours/includes/classes/AtTourBookingService.php:395
+msgid "Please check the date format."
+msgstr ""
+
+#: adventure-tours/includes/classes/AtTourBookingService.php:397
+#, php-format
+msgid "The date should be grater than %s."
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:45
+msgid "Please complete the twitter settings in the Twitter widget."
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:97
+msgid "Please verify the settings in the Twitter widget."
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:199
+msgid "Latest Tweets"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:208
+msgid "Twitter user"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:212
+msgid "Show item number"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:216
+msgid "Widget title"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:219
+msgid "Consumer Key"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:222
+msgid "Consumer Secret"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:227
+msgid "Show tweet \"time ago\""
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:231
+msgid "Include replies"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:247
+msgid "right now"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:251
+msgid " seconds ago"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:255
+msgid "about 1 minute ago"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:259
+msgid " minutes ago"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:263
+msgid "about 1 hour ago"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:267
+msgid " hours ago"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:271
+msgid "yesterday"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:275
+msgid " days ago"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetTwitterTweets.php:279
+msgid "over a year ago"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:61
+msgid "Reset"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:62
+msgid ""
+"This will reset all customizations made via customizer to this theme! Are "
+"you sure?"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:83
+#: adventure-tours/includes/shortcodes/menu.php:12
+msgid "Typography"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:87
+msgid "Main Font"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:92
+msgid "Size"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:101
+msgid "Main Font Color"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:106
+msgid "Subheading Font"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:111
+msgid "Alternative Text Font"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:116
+msgid "Heading Font"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:121
+msgid "Link Color"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:129
+msgid "General Colors"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:133
+msgid "Main color"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:138
+msgid "Accent color 1"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:143
+msgid "Accent color 2"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:148
+msgid "Form background"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:153
+msgid "Form button background"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:161
+msgid "Header Colors"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:165
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:182
+msgid "Background color"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:170
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:192
+msgid "Text color"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:178
+msgid "Footer Colors"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:187
+msgid "Heading color"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtThemeCustomizer.php:197
+msgid "Link color"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetContactUs.php:15
+msgid "Contact Us"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetContactUs.php:17
+msgid "Contact Us Widget"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetContactUs.php:83
+msgid "Address"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetContactUs.php:86
+msgid "Skype"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtBookingFormHelper.php:90
+msgid "Booking Date"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtBookingFormHelper.php:91
+msgid "Children"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtBookingFormHelper.php:448
+msgid "There are no tickets for this date."
+msgstr ""
+
+#: adventure-tours/includes/classes/AtBookingFormHelper.php:454
+msgid "Please enter the amount of tickets."
+msgstr ""
+
+#: adventure-tours/includes/classes/AtBookingFormHelper.php:459
+#, php-format
+msgid "Only %s tickets are left."
+msgstr ""
+
+#: adventure-tours/includes/classes/AtBookingFormHelper.php:460
+msgid "Only 1 ticket is left."
+msgstr ""
+
+#: adventure-tours/includes/classes/AtBookingFormHelper.php:486
+msgid "Fill in the required field."
+msgstr ""
+
+#: adventure-tours/includes/classes/AtBookingFormHelper.php:493
+msgid "Email invalid."
+msgstr ""
+
+#: adventure-tours/includes/classes/AtBookingFormHelper.php:501
+msgid "Date invalid."
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetLatestPosts.php:21
+#: adventure-tours/includes/shortcodes/menu.php:265
+#: adventure-tours/includes/shortcodes/menu.php:266
+msgid "Latest Posts"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetLatestPosts.php:23
+msgid "Latest Posts Widget"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetLatestPosts.php:93
+msgid "Display post date?"
+msgstr ""
+
+#: adventure-tours/includes/classes/AtWidgetLatestPosts.php:99
+msgid "Display post image?"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:14
+msgid "Tables"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:16
+msgid "Other"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:18
+msgid "Contact"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:20
+msgid "External Services"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:23
+msgid "Edit"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:24
+msgid "Columns"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:63
+msgid "Icon Tick"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:70
+msgid "Table"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:75
+msgid "Tour Table"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:81
+msgid "Tour Search Form"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:84
+msgid "Tour Category Images"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:98
+msgid "Tour Category Icons"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:108
+#: adventure-tours/includes/shortcodes/menu.php:137
+#: adventure-tours/includes/shortcodes/menu.php:225
+msgid "Select image that should be used as background."
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:117
+msgid "Tours Carousel"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:126
+#: adventure-tours/includes/shortcodes/menu.php:157
+msgid "Filter items from specific tour category (enter category slug)."
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:130
+#: adventure-tours/includes/shortcodes/menu.php:161
+msgid "Specify exact ids of items that should be displayed separated by comma."
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:148
+msgid "Tours List"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:177
+msgid "View more"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:190
+msgid "Contact Info"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:196
+msgid "Social Icons"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:197
+msgid "We are social"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:208
+msgid "MailChimp Form"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:238
+msgid "Google Map"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:240
+msgid "The address will show up when clicking on the map marker."
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:243
+msgid "Coordinates separated by comma."
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:248
+msgid "Number in range from 1 up to 21."
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:272
+msgid "Read more"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:279
+msgid "Timeline"
+msgstr ""
+
+#: adventure-tours/includes/shortcodes/menu.php:283
+msgid "Icons Set"
+msgstr ""

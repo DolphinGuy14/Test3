@@ -1,0 +1,310 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "CMS Commander Client"
+msgstr ""
+
+#. Short description.
+msgid "CMS Commander helps you to manage all your WordPress sites faster and from a single dashboard."
+msgstr ""
+
+#. Screenshot description.
+msgid "The CMS Commander dashboard - here you see all your websites, Analytics stats, uptime, available updates, new comments, post drafts and more."
+msgstr ""
+
+#. Found in description header.
+msgid "Manage"
+msgstr ""
+
+#. Found in description header.
+msgid "Monitor"
+msgstr ""
+
+#. Found in description header.
+msgid "Optimize"
+msgstr ""
+
+#. Found in description header.
+msgid "Backup"
+msgstr ""
+
+#. Found in description list item.
+msgid "All your WordPress sites in one powerful dashboard."
+msgstr ""
+
+#. Found in description list item.
+msgid "Update plugins, themes and WordPress itself on all blogs."
+msgstr ""
+
+#. Found in description list item.
+msgid "Do everything in bulk! Install plugins on multiple sites, manage users, bulk edit content and more."
+msgstr ""
+
+#. Found in description list item.
+msgid "Google Analytics integration: View aggregated traffic stats of your whole site network."
+msgstr ""
+
+#. Found in description list item.
+msgid "Uptime monitoring built in."
+msgstr ""
+
+#. Found in description list item.
+msgid "Backlink and pagespeed tracking"
+msgstr ""
+
+#. Found in description list item.
+msgid "Over 20 APIs provide affiliate ads, images, videos and other useful free content you can use."
+msgstr ""
+
+#. Found in description list item.
+msgid "Monetize your sites better by posting relevant ads and affiliate products."
+msgstr ""
+
+#. Found in description list item.
+msgid "Improve your articles with free creative commons images and other high quality content"
+msgstr ""
+
+#. Found in description list item.
+msgid "Create full backups of your sites and restore then with a single click"
+msgstr ""
+
+#. Found in description list item.
+msgid "Schedule automatic backup tasks and save your backups to Dropbox, Google Drive or Amazon S3"
+msgstr ""
+
+#. Found in description list item.
+msgid "Copy an entire website with our powerful \"Clone\" tools."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "With <a href=\"http://cmscommander.com/\" title=\"Manage multiple WordPress sites\">CMS Commander</a> you can manage multiple WordPress sites from a single powerful dashboard. We help you control, monitor and backup all your websites - no matter if you have one or hundreds."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "But CMS Commander is more than just another WordPress management solution. We do also provide you with essential marketing tools to optimize your content and better monetize your sites. With CMS Commander you will save time and earn more."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The full list of things you can do with CMS Commander is long. Have a look at our <a href=\"http://cmscommander.com/cms-commander-features/\" title=\"All features in CMS Commander\">features page</a> on cmscommander.com to get a full overview. The following are some of our 3,000+ users favorite features:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Sounds good? <a href=\"http://cmscommander.com/\" title=\"Manage your WordPress sites faster now!\">Sign up for your free account now</a> to get started with CMS Commander!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "A free account allows you to manage up to 5 WordPress sites with basic features and also includes a 14 day trial of all premium features. See here for more details about our <a href=\"http://cmscommander.com/pricing-and-plans/\" title=\"CMS Commander pricing and plans\">premium upgrades</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The CMS Commander WordPress plugin handles the communication between your individual websites and your dashboard at cmscommander.com and needs to be installed on each site you want to manage remotely with us."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Credits: <a href=\"http://prelovac.com/vladimir\">Vladimir Prelovac</a> for his worker plugin on which the CMS Commander plugin is based."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the plugin folder to your /wp-content/plugins/ directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to the \"Plugins\" page in your WordPress admin and activate the CMS Commander plugin"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Visit <a href=\"http://cmscommander.com/\" title=\"Easy WordPress management\">CMSCommander.com</a> and sign up for free to add your site"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better backup performance in cases where certain other plugins or backup solutions are used"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved syncing of new updates and comments with the dashboard"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Several minor fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Bug that prevented certain premium plugin updates from being reported"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Better recognization of available updates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Changes to the cleanup feature to make it work more reliably"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Bug that could cause backup tasks to not get deleted correctly"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Bug that caused php warnings being thrown and saved to the log"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Plugin was not getting deactivated properly when site was deleted from CMS Commander"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixes a bug with the 1-click login feature that had been introduced by the previous update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Support for updates of premium plugins"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Bulk edit posts feature"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: Performance of the client plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: New classes for Dropbox, S3 and Google Drive integration"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: Performance of remote backup uploads for large sites"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Bug with Google Analytics verification"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Support for new <a href=\"http://cmscommander.com/cms-commander-features/deploy-wordpress/\">deploy WordPress</a> feature"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Improved performance for backup tasks on larger sites"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Backlink tracking"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Pagespeed tracking"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Incompatibility with Ninja Forms and possibly other plugins"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Bug that prevented Backups from being uploaded to Dropbox"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: Support for sites using SSL"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Bug that prevents CMS Commander dashboard to recognize the latest version of the client was installed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Improved post editor with presets for product/forum posts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Several minor bug fixes and code enhancements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Copy plugin settings feature for certain popular plugins"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Easier way to readd and remove websites from an account"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Prevents deleted or paused backup tasks from running in certain situations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Update: New Amazon S3 class"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: database optimization feature"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: clear spam comments and misc tools feature"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Improved automatic updating of CMS Commander client"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Activity log"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Bug that prevented correct password setup on bulk user account creation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Improved automatic plugin and theme updates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: New comments managements features: reply to comments, bulk delete and empty trash/spam"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Support for connecting multiple Google Analytics accounts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Dashboard site data is updated automatically in regular intervals"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Support for managing automatic updates on all WordPress blogs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Ignore or install single plugin updates on the dashboard"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Minor bugs related to WP 3.8"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "First release in WP plugin directory."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "License"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "This file is part of the CMS Commander Plugin."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "The CMS Commander Plugin is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "The CMS Commander Plugin is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "You should have received a copy of the GNU General Public License along with CMS Commander. If not, see <a href=\"http://www.gnu.org/licenses/\">http://www.gnu.org/licenses/</a>."
+msgstr ""

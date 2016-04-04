@@ -1,0 +1,34 @@
+.footer-nav{
+	text-align:right;
+
+	ul{
+		display:block;
+		margin:0;
+		padding:0;
+
+		& > li{
+			display:inline-block;
+
+			a{
+				color:inherit;
+				border-bottom:none;
+
+				&:hover{
+					color:@footer-links-color;
+				}
+			}
+		}
+
+		li + li{
+			margin-left:20px;
+		}
+	}
+
+	@media(max-width:@responsive-breakpoint1){
+		text-align:left;
+
+		ul{
+			margin-top: 20px;
+		}
+	}
+}

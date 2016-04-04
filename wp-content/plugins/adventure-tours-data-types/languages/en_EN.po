@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: adventure-tours-custom-types 1.0.0\n"
+"POT-Creation-Date: 2015-09-27 14:42+0300\n"
+"PO-Revision-Date: 2015-10-07 22:03+0300\n"
+"Last-Translator: Oleg Kutcyna <oleg.kutcyna@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __:1,2c;_e:1,2c;_n:1,2,4c;_x:1,3c;_ex:1,3c;"
+"_nx:1,2,4c:;esc_attr__:1,2c;esc_attr_e:1,2c;esc_attr_x:1,3c;esc_html__:1,2c;"
+"esc_html_e:1,2c;esc_html_x:1,3c;gettext_noop\n"
+"X-Poedit-Basepath: adventure-tours-data-types\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: adventure-tours-data-types\n"
+
+#: adventure-tours-data-types/templates/shortcodes/mailchimp_form.php:22
+msgid ""
+"Please enter the MailChimp List ID settings in the MailChimp Form "
+"[mailchimp_form] shortcode."
+msgstr ""
+
+#: adventure-tours-data-types/templates/shortcodes/tour_search_form.php:27
+#: adventure-tours-data-types/templates/shortcodes/tour_search_form.php:29
+msgid "Search"
+msgstr ""
+
+#: adventure-tours-data-types/templates/shortcodes/faq_question_form.php:18
+msgid "Name"
+msgstr ""
+
+#: adventure-tours-data-types/templates/shortcodes/faq_question_form.php:21
+msgid "Email"
+msgstr ""
+
+#: adventure-tours-data-types/templates/shortcodes/faq_question_form.php:24
+#: adventure-tours-data-types/templates/shortcodes/faq_question_form_email.php:18
+msgid "Question"
+msgstr ""
+
+#: adventure-tours-data-types/templates/shortcodes/faq_question_form.php:28
+msgid "Send Question"
+msgstr ""
+
+#: adventure-tours-data-types/templates/shortcodes/faq_question_form_email.php:16
+msgid "New question for FAQs"
+msgstr ""
+
+#: adventure-tours-data-types/templates/shortcodes/faq_question_form_email.php:17
+msgid "From"
+msgstr ""
+
+#: adventure-tours-data-types/includes/shortcodes_dynamic.php:26
+msgid "Read more"
+msgstr ""
+
+#: adventure-tours-data-types/includes/shortcodes_dynamic.php:197
+msgid "View more"
+msgstr ""
+
+#: adventure-tours-data-types/classes/ATDTP_Shortcodes_FAQ_Question_Form.php:197
+msgid "Please reload the page and resubmit the form again."
+msgstr ""
+
+#: adventure-tours-data-types/classes/ATDTP_Shortcodes_FAQ_Question_Form.php:198
+msgid "Your question has been submitted successfully."
+msgstr ""
+
+#: adventure-tours-data-types/classes/ATDTP_Shortcodes_FAQ_Question_Form.php:199
+msgid "Your question has not been submitted. Please contact support."
+msgstr ""
+
+#: adventure-tours-data-types/classes/ATDTP_Shortcodes_FAQ_Question_Form.php:200
+msgid "Please fill in all required fields."
+msgstr ""
+
+#: adventure-tours-data-types/classes/ATDTP_Shortcodes_FAQ_Question_Form.php:201
+msgid "Fill in the required field."
+msgstr ""
+
+#: adventure-tours-data-types/classes/ATDTP_Shortcodes_FAQ_Question_Form.php:202
+msgid "Email invalid."
+msgstr ""
+
+#: adventure-tours-data-types/classes/ATDTP_Shortcodes_FAQ_Question_Form.php:203
+msgid "FAQs: new question"
+msgstr ""
+
+#: adventure-tours-data-types/classes/ATDTP_Data_Types_Registrator.php:61
+msgid "Tour Categories"
+msgstr ""
+
+#: adventure-tours-data-types/classes/ATDTP_Data_Types_Registrator.php:62
+msgid "Tour Category"
+msgstr ""
+
+#: adventure-tours-data-types/classes/ATDTP_Data_Types_Registrator.php:79
+msgid "Media Categories"
+msgstr ""
+
+#: adventure-tours-data-types/classes/ATDTP_Data_Types_Registrator.php:80
+msgid "Media Category"
+msgstr ""
+
+#: adventure-tours-data-types/classes/ATDTP_Data_Types_Registrator.php:95
+msgid "FAQs"
+msgstr ""
+
+#: adventure-tours-data-types/classes/ATDTP_Data_Types_Registrator.php:97
+msgid "Add New Question"
+msgstr ""
+
+#: adventure-tours-data-types/classes/ATDTP_Data_Types_Registrator.php:98
+msgid "Edit Question"
+msgstr ""
+
+#: adventure-tours-data-types/classes/ATDTP_Data_Types_Registrator.php:120
+msgid "FAQ Categories"
+msgstr ""
+
+#: adventure-tours-data-types/classes/ATDTP_Data_Types_Registrator.php:121
+msgid "FAQ Category"
+msgstr ""

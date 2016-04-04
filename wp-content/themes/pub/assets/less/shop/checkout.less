@@ -1,0 +1,155 @@
+@__form-item-border-color:#ebebeb;
+@__form-item-border-color-active:#d4d4d4;
+@__form-item-backgorund:#fbfbfb;
+
+.woocommerce{
+	.checkout-box{
+		.mix-layout-box();
+		.mix-margin-bottom();
+	}
+
+	td.product-name dl.variation dd{
+		margin-bottom:0;
+	}
+
+	form.checkout_coupon{
+		margin:0;
+		border:none;
+		.mix-padding-all();
+		.mix-margin-bottom();
+		.mix-layout-box();
+
+		.form-row{
+			margin:0;
+			padding:0;
+		}
+
+		.button{
+			height:50px;
+			line-height:50px;
+		}
+	}
+
+	form .form-row{
+		input,
+		textarea{
+			.mix-transition(@main-animation-forms);
+			border:1px solid @__form-item-border-color;
+			background:@__form-item-backgorund;
+
+			&:focus{
+				border:1px solid @__form-item-border-color-active;
+				background:@main-color-white;
+			}
+		}
+
+		input[type="checkbox"],
+		input[type="radio"]{
+			border:none;
+			background:none;
+		}
+
+		.required{
+			color:@warning-color;
+			text-decoration:none;
+		}
+
+		&.woocommerce-validated .select2-choice,
+		&.woocommerce-validated input.input-text,
+		&.woocommerce-validated select{
+			border:1px solid @main-color3;
+		}
+
+		&.woocommerce-invalid .select2-choice,
+		&.woocommerce-invalid input.input-text,
+		&.woocommerce-invalid select{
+			border:1px solid @warning-color;
+		}
+	}
+
+	.woocommerce-billing-fields > h3,
+	.woocommerce-shipping-fields > h3,
+	#order_review_heading{
+		margin:0;
+		margin-bottom:20px;
+	}
+
+	table.shop_table{
+		margin:0;
+		border:1px solid #e4e4e4;
+		border-bottom:none;
+		border-radius:@main-border-radius;
+		.mix-margin-bottom();
+
+		td,
+		th,
+		tfoot th,
+		tfoot td{
+			border:none !important;
+			border-bottom:1px solid #e4e4e4 !important;
+		}
+
+		tfoot{
+			tr{
+				&:last-child{
+					td,
+					th{
+						border:none;
+					}
+				}
+			}
+		}
+
+		th{
+			text-transform:uppercase;
+		}
+
+		th,
+		td{
+			padding:10px 30px;
+			text-align:left;
+		}
+	}
+
+	#payment div.payment_box:after{
+		top:-2px;
+	}
+
+	.about_paypal{
+		border-bottom:none;
+	}
+
+	input.button.alt{
+		background:@main-color2 !important;
+
+		&:hover,
+		&:focus{
+			background:@main-color2 !important;
+		}
+	}
+
+	ul.order_details{
+		margin-top: 1.5em;
+		border: 1px solid #e4e4e4;
+		padding-left:30px;
+		li{
+			padding-top:5px;
+			padding-bottom:5px;
+			@media(max-width: 676px){
+				float:none;
+				border-right:none;
+			}
+		}
+	}
+}
+
+.woocommerce-checkout{
+	.woocommerce{
+		form.login{
+			border:none;
+			.mix-layout-box();
+			.mix-padding-all();
+			.mix-margin-bottom();
+		}
+	}
+}

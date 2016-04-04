@@ -1,0 +1,272 @@
+@__product-meta-delimiter-color:#e4e4e4;
+
+.woocommerce{
+	div.product-box{
+		.mix-layout-box();
+
+		&--page-single{
+			.mix-margin-bottom();
+		}
+
+		& .product-box__thumbnail-col{
+			width:33.33333333%;
+		}
+
+		div.images{
+			float:none;
+			width:auto;
+		}
+
+		div.thumbnails{
+			padding-top:15px;
+			text-align:center;
+
+			a{
+				display:inline-block;
+				width:auto;
+				margin-right:0;
+				margin-bottom:15px;
+				float:none;
+				border-bottom:none;
+			}
+		}
+
+		table.product_meta{
+			width:100%;
+			margin-bottom:15px;
+			border:none;
+			border-top:2px solid @__product-meta-delimiter-color;
+			border-bottom:2px solid @__product-meta-delimiter-color;
+
+			tr{
+				border-bottom:1px solid @__product-meta-delimiter-color;
+
+				&:last-child{
+					border-bottom:none;
+				}
+
+				& :fist-child{
+					width:0;
+					white-space: nowrap;
+				}
+
+				& :last-child{
+					width:100%;
+				}
+			}
+
+			th, td{
+				padding:10px 20px;
+				border:none;
+			}
+
+			th{
+				padding-right:0;
+				text-transform:uppercase;
+				.mix-alternative-text();
+				vertical-align:top;
+			}
+		}
+
+		.product_title{
+			margin-bottom:20px;
+			font-size:2em;
+		}
+
+		.woocommerce-product-rating{
+			margin:0;
+			margin-bottom:20px;
+			line-height:1.333em;
+			color:@rating-color;
+
+			&__stars{
+				margin-right:10px;
+				float:left;
+				font-size:1.200em;
+
+				i{
+					margin-right:5px;
+				}
+			}
+		}
+
+		p.price{
+			display:inline-block;
+			line-height:45px;
+			margin:0;
+			margin-bottom:20px;
+			padding:0 15px;
+			color:@main-color-white;
+			font-size:1.333em;
+			background:@main-color1;
+			border-radius:@main-border-radius;
+			.mix-alternative-text();
+
+			del, ins{
+				display:inline;
+			}
+
+			del{
+				opacity:1;
+				font-size:0.750em;
+			}
+
+			ins{
+				text-decoration:none;
+			}
+		}
+
+		form.cart{
+			margin-bottom:30px;
+
+			.single_add_to_cart_button{
+				background:fade(@main-color2, 80%) !important;
+				position:relative;
+
+				&:hover{
+					background:fade(@main-color2, 100%) !important;
+				}
+
+				&:before{
+					content:"\f055";
+					font-family:FontAwesome;
+					margin-right:10px;
+				}
+			}
+
+			div.quantity{
+				margin-right:25px;
+				line-height:45px;
+
+				input{
+					height:30px;
+					line-height:normal;
+					border:1px solid #e4e4e4;
+					border-radius:@main-border-radius;
+				}
+			}
+
+			.variations{
+				width:100%;
+
+				td{
+					padding:0 !important;
+
+					&:first-child{
+						width:0;
+						padding-top:10px !important;
+						padding-right:20px !important;
+						white-space:nowrap;
+					}
+
+					&:last-child{
+						width:100%;
+					}
+				}
+			}
+		}
+	
+		.single_variation{
+			.price{
+				color:@main-color3;
+				.mix-alternative-text();
+			}
+		}
+
+		span.onsale{
+			width:45px;
+			height:45px;
+			min-height:0;
+			min-width:0;
+			line-height:45px;
+			padding:0;
+			overflow:hidden;
+			background:@main-color2;
+		}
+
+		p.stock{
+			margin:0;
+			margin-bottom:25px;
+
+			&.in-stock{
+				color:@main-color3;
+				.mix-alternative-text();
+
+				&:before{
+					content:"\f058";
+					display:inline-block;
+					margin-right:5px;
+					font-family:FontAwesome;
+					font-weight:normal;
+				}
+			}
+
+			&.out-of-stock{
+				color:@warning-color;
+				.mix-alternative-text();
+
+				&:before{
+					content:"\f071";
+					display:inline-block;
+					margin-right:5px;
+					font-family:FontAwesome;
+					font-weight:normal;
+				}
+			}
+		}
+
+		p{
+			margin:0;
+			margin-bottom:15px;
+
+			&:last-child{
+				margin-bottom:20px;
+			}
+		}
+	}
+}
+
+.single-product{
+	.related{
+		&__item{
+			&:last-child{
+				.atgrid__item{
+					margin-bottom:0;
+				}
+			}
+		}
+
+		.atgrid__item{
+			.mix-margin-bottom();
+		}
+	}
+
+	.upsells{
+		&__item{
+			&:last-child{
+				.atgrid__item{
+					margin-bottom:0;
+				}
+			}
+		}
+	}
+}
+
+.woocommerce-page{
+	.atgrid{
+		&__item{
+			.mix-margin-bottom();
+		}
+	}
+}
+
+// Responsive
+@media(max-width:@responsive-breakpoint2){
+	.woocommerce{
+		div.product-box{
+			& .product-box__thumbnail-col{
+				width:auto;
+			}
+		}
+	}
+}

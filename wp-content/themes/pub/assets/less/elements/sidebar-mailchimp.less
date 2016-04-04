@@ -1,0 +1,87 @@
+.sidebar{
+	.widget{
+		&.widget_yikes_mc_widget{
+			background-color:@header-bg;
+			.widget__title{
+				color:rgba(255,255,255,0.9);
+				border-bottom-color:rgba(255,255,255,0.15);
+			}
+		}
+	}
+
+	.yks-mailchimpFormDivRowLabel{
+		display:none !important;
+	}
+
+	.yks-mailchimpFormDivRowField{
+		input{
+			height:45px;
+			padding:0 20px !important;
+			margin-bottom:10px;
+			background-color:rgba(255,255,255,0.9);
+
+			&:focus{
+				background-color:rgba(255,255,255,1);
+			}
+		}
+	}
+
+	& .yks-mailchimpFormDivRow,
+	& .yks-mailchimpFormDivSubmit,
+	& .yks-mailchimpFormDivSubmit p{
+		margin:0 !important;
+	}
+
+	& .yks-mailchimpFormDiv{
+		.yks-mc-input-field-row-email-address{
+			display:inline-block;
+		}
+	}
+
+	.ykfmc-submit{
+		color:#fff;
+		font-size:1.067em;
+		font-weight:bold;
+		text-transform:uppercase;
+		line-height:45px;
+		height:45px;
+		padding:0 30px;
+		border:none;
+		background:fade(@main-color1,80%);
+		transition:all 0.2s ease-in-out;
+		-webkit-transition:all 0.2s ease-in-out;
+		-o-transition:all 0.2s ease-in-out;
+	}
+
+	.yks-status .yks-success{
+		color:rgba(255,255,255,0.8);
+		line-height:1.5em;
+		text-align:center;
+		margin:0;
+		padding:0;
+	}
+
+	.yks-mc-submit-preloader{
+		display:none;
+	}
+}
+
+// error message presentation on the subscribe widget
+#yks_form_error_message{
+	color:#FF7D7D;
+	line-height:1.4em;
+	font-size:13px !important;
+	ul{
+		padding:0;
+		margin:0 0 0 15px;
+		list-style:initial;
+		color:#FF7D7D;
+		li{
+			width:auto !important;
+			&:before{
+					display:none;
+
+			}
+		}
+	}
+}

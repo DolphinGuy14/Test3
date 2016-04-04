@@ -1,0 +1,55 @@
+.button{
+	height:45px;
+	line-height:45px;
+	padding:0 30px;
+	color:@main-color-white;
+	font-size:1.067em;
+	.mix-alternative-text();
+	text-transform:uppercase;
+	border:none;
+	border-radius:@main-border-radius;
+	white-space:nowrap;
+
+	&:focus, &:active{
+		outline:0;
+	}
+
+	&--small{
+		height:40px;
+		line-height:40px;
+		padding:0 20px;
+		font-size:0.933em;
+	}
+
+	&--block{
+		display:block;
+	}
+
+	&--with-icon{
+		i{
+			margin-right:10px;
+		}
+
+		&-right{
+			i{
+				margin-left:10px;
+			}
+		}
+	}
+
+	&--text-decoration{
+		font-family:@subheading-font-family;
+		text-transform:none;
+		font-size:1.200em;
+		font-weight:normal;
+	}
+
+	&--style1{
+		.mix-transition();
+		background:fade(@main-color1, 80%);
+
+		&:hover{
+			background:fade(@main-color1, 100%);
+		}
+	}
+}
