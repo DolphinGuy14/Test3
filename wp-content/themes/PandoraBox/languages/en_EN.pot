@@ -1,0 +1,351 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: test1\n"
+"POT-Creation-Date: 2014-09-02 09:26+0200\n"
+"PO-Revision-Date: 2014-09-02 09:26+0200\n"
+"Last-Translator: Anastasiia <bednyakova.anastasia@gmail.com>\n"
+"Language-Team: test <val_stasya@mail.ru>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.8\n"
+"X-Poedit-Basepath: C:\\OpenServer\\domains\\localhost\\pandora\\wp-content"
+"\\themes\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: PandoraBox\n"
+
+#: PandoraBox/404.php:8
+msgid "Page not found."
+msgstr ""
+
+#: PandoraBox/category.php:33 PandoraBox/index.php:36 PandoraBox/single.php:30
+msgid "No comments"
+msgstr ""
+
+#: PandoraBox/category.php:33 PandoraBox/index.php:36 PandoraBox/single.php:30
+msgid "1 comment"
+msgstr ""
+
+#: PandoraBox/category.php:33 PandoraBox/index.php:36 PandoraBox/single.php:30
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: PandoraBox/category.php:33 PandoraBox/index.php:36 PandoraBox/single.php:30
+msgid "Comments are closed"
+msgstr ""
+
+#: PandoraBox/category.php:44 PandoraBox/index.php:46 PandoraBox/search.php:43
+msgid "Read more"
+msgstr ""
+
+#: PandoraBox/category.php:53 PandoraBox/index.php:54 PandoraBox/search.php:52
+msgid "Posts not found!"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:171
+#: PandoraBox/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1950
+#: PandoraBox/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1950
+#: PandoraBox/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: PandoraBox/comments.php:13
+msgid "One comment:"
+msgstr ""
+
+#: PandoraBox/comments.php:13
+#, php-format
+msgid "%1$s Comments:"
+msgstr ""
+
+#: PandoraBox/comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: PandoraBox/comments.php:45
+msgid "Leave a Comment:"
+msgstr ""
+
+#: PandoraBox/comments.php:48
+msgid "YOUR NAME"
+msgstr ""
+
+#: PandoraBox/comments.php:49
+msgid "YOUR MAIL"
+msgstr ""
+
+#: PandoraBox/comments.php:50
+msgid "YOUR MESSAGE"
+msgstr ""
+
+#: PandoraBox/comments.php:52
+msgid "required fields"
+msgstr ""
+
+#: PandoraBox/functions.php:41
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: PandoraBox/functions.php:43
+msgid "Blog right sidebar"
+msgstr ""
+
+#: PandoraBox/functions.php:80
+msgid "Main menu"
+msgstr ""
+
+#: PandoraBox/functions.php:94
+msgid "PandoraBox Options"
+msgstr ""
+
+#: PandoraBox/functions.php:97
+msgid "Allows you to customize some example settings for pandora."
+msgstr ""
+
+#: PandoraBox/functions.php:114
+msgid "Basic Color"
+msgstr ""
+
+#: PandoraBox/functions.php:222
+msgid "Edit"
+msgstr ""
+
+#: PandoraBox/functions.php:233
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: PandoraBox/search.php:9
+#, php-format
+msgid "Search for \"%s\":"
+msgstr ""
+
+#: PandoraBox/searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: PandoraBox/section-contact.php:17
+msgid "Write us via e-mail"
+msgstr ""
+
+#: PandoraBox/section-contact.php:24
+msgid "Visit us"
+msgstr ""
+
+#: PandoraBox/section-contact.php:33
+msgid "Phone us"
+msgstr ""
+
+#: PandoraBox/sidebar-footer.php:2
+msgid "Footer Widgets Left"
+msgstr ""
+
+#: PandoraBox/sidebar-footer.php:5
+msgid "Footer Widgets Center"
+msgstr ""
+
+#: PandoraBox/sidebar-footer.php:8
+msgid "Footer Widgets Right"
+msgstr ""
+
+#: PandoraBox/single.php:44
+msgid "Previous"
+msgstr ""
+
+#: PandoraBox/single.php:45
+msgid "Next"
+msgstr ""

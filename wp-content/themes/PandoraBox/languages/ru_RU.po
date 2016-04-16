@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: test1\n"
+"POT-Creation-Date: 2014-09-02 09:13+0200\n"
+"PO-Revision-Date: 2014-09-02 09:26+0200\n"
+"Last-Translator: Anastasiia <bednyakova.anastasia@gmail.com>\n"
+"Language-Team: test <val_stasya@mail.ru>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.8\n"
+"X-Poedit-Basepath: C:\\OpenServer\\domains\\localhost\\pandora\\wp-content"
+"\\themes\\\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;__n:1,2\n"
+"X-Poedit-SearchPath-0: PandoraBox\n"
+
+#: PandoraBox/404.php:8
+msgid "Page not found."
+msgstr "Страница не найдена."
+
+#: PandoraBox/category.php:33 PandoraBox/index.php:36 PandoraBox/single.php:30
+msgid "No comments"
+msgstr "Нет комментариев"
+
+#: PandoraBox/category.php:33 PandoraBox/index.php:36 PandoraBox/single.php:30
+msgid "1 comment"
+msgstr "Один комментарий"
+
+#: PandoraBox/category.php:33 PandoraBox/index.php:36 PandoraBox/single.php:30
+#, php-format
+msgid "% comments"
+msgstr "% комментариев"
+
+#: PandoraBox/category.php:33 PandoraBox/index.php:36 PandoraBox/single.php:30
+msgid "Comments are closed"
+msgstr "Комментарии закрыты"
+
+#: PandoraBox/category.php:44 PandoraBox/index.php:46 PandoraBox/search.php:43
+msgid "Read more"
+msgstr "Читать далее"
+
+#: PandoraBox/category.php:53 PandoraBox/index.php:54 PandoraBox/search.php:52
+msgid "Posts not found!"
+msgstr "Посты не найдены!"
+
+#: PandoraBox/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr "Установить требуемые плагины"
+
+#: PandoraBox/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: PandoraBox/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: PandoraBox/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr "Что-то пошло не так."
+
+#: PandoraBox/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:171
+#: PandoraBox/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: PandoraBox/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины успешно установлены и активированы. %1$s"
+
+#: PandoraBox/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr "Внешняя ссылка"
+
+#: PandoraBox/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "Рекомендован"
+
+#: PandoraBox/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: PandoraBox/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: PandoraBox/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr "Плагин"
+
+#: PandoraBox/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr "Источник"
+
+#: PandoraBox/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr "Тип"
+
+#: PandoraBox/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr "Статус"
+
+#: PandoraBox/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr "Установить"
+
+#: PandoraBox/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr "Активировать"
+
+#: PandoraBox/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "Плагин успешно установлен."
+
+#: PandoraBox/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1950
+#: PandoraBox/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr "Показать"
+
+#: PandoraBox/class-tgm-plugin-activation.php:1950
+#: PandoraBox/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "Скрыть"
+
+#: PandoraBox/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: PandoraBox/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "При установке %1$s произошла ошибка."
+
+#: PandoraBox/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "Установка %1$s выполнена успешно. "
+
+#: PandoraBox/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "Все плагины были установлены."
+
+#: PandoraBox/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина%1$s (%2$d/%3$d)"
+
+#: PandoraBox/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: PandoraBox/comments.php:13
+msgid "One comment:"
+msgstr "Один комментарий"
+
+#: PandoraBox/comments.php:13
+#, php-format
+msgid "%1$s Comments:"
+msgstr "%1$s комментария"
+
+#: PandoraBox/comments.php:40
+msgid "Comments are closed."
+msgstr "Комментарии закрыты"
+
+#: PandoraBox/comments.php:45
+msgid "Leave a Comment:"
+msgstr "Оставить комментарий: "
+
+#: PandoraBox/comments.php:48
+msgid "YOUR NAME"
+msgstr "ИМЯ"
+
+#: PandoraBox/comments.php:49
+msgid "YOUR MAIL"
+msgstr "E-MAIL"
+
+#: PandoraBox/comments.php:50
+msgid "YOUR MESSAGE"
+msgstr "СООБЩЕНИЕ"
+
+#: PandoraBox/comments.php:52
+msgid "required fields"
+msgstr "поля, обязательные для заполнения"
+
+#: PandoraBox/functions.php:41
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: PandoraBox/functions.php:43
+msgid "Blog right sidebar"
+msgstr ""
+
+#: PandoraBox/functions.php:80
+msgid "Main menu"
+msgstr "Основное меню"
+
+#: PandoraBox/functions.php:94
+msgid "PandoraBox Options"
+msgstr "Опции PandoraBox "
+
+#: PandoraBox/functions.php:97
+msgid "Allows you to customize some example settings for pandora."
+msgstr ""
+
+#: PandoraBox/functions.php:114
+msgid "Basic Color"
+msgstr "Основной цвет"
+
+#: PandoraBox/functions.php:222
+msgid "Edit"
+msgstr "Редактировать"
+
+#: PandoraBox/functions.php:233
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий отправлен на модерацию."
+
+#: PandoraBox/search.php:9
+#, php-format
+msgid "Search for \"%s\":"
+msgstr "Поиск \"%s\":"
+
+#: PandoraBox/searchform.php:3
+msgid "Search"
+msgstr "Искать"
+
+#: PandoraBox/section-contact.php:17
+msgid "Write us via e-mail"
+msgstr "Напишите нам"
+
+#: PandoraBox/section-contact.php:24
+msgid "Visit us"
+msgstr "Мы находимся"
+
+#: PandoraBox/section-contact.php:33
+msgid "Phone us"
+msgstr "Позвоните нам"
+
+#: PandoraBox/sidebar-footer.php:2
+msgid "Footer Widgets Left"
+msgstr ""
+
+#: PandoraBox/sidebar-footer.php:5
+msgid "Footer Widgets Center"
+msgstr ""
+
+#: PandoraBox/sidebar-footer.php:8
+msgid "Footer Widgets Right"
+msgstr ""
+
+#: PandoraBox/single.php:44
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: PandoraBox/single.php:45
+msgid "Next"
+msgstr "Следующий"
+
+#~ msgid "&larr; Older Comments"
+#~ msgstr "&larr; Предыдущие комментарии"
+
+#~ msgid "Newer Comments &rarr;"
+#~ msgstr "Новые комментарии &rarr;"
+
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view any comments."
+#~ msgstr "У вас нет доступа. Введите пароль:"
